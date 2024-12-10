@@ -1,1 +1,1 @@
-# Furniture-APP-GenAI
+# Furniture-APP-LaMa
