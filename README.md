@@ -13,3 +13,7 @@ Smart Furnish is an interactive application built using Streamlit that allows us
 5.Save Results: Easily save the edited image locally.<br />
 
 ## Demo 🎥
+
+
+https://github.com/user-attachments/assets/f2ca3e35-97e0-420f-a0a7-3463d52700fb
+
